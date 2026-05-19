@@ -118,8 +118,8 @@ Building a scalable digital platform for wholesale market purchases with real-ti
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/alessandra-rosado-758850123/)
-- GitHub: [https://github.com/YOUR-GITHUB](https://github.com/aleerosado)
+- LinkedIn: [https://linkedin.com/in/aleerosado](https://www.linkedin.com/in/alessandra-rosado-758850123/)
+- GitHub: [https://github.com/aleerosado(https://github.com/aleerosado)
 - Portfolio: https://YOUR-WEBSITE
 
 ---
