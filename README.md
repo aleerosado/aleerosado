@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Ale Rosado
 
-🚀 DevOps Engineer | Cloud & AI Enthusiast | Founder of Ariwa Labs
+🚀 DevOps Engineer | Cloud & AI Enthusiast | Founder
 
 I’m a Systems Engineer from Peru focused on building scalable cloud solutions, automating infrastructure, and creating AI-powered products with real-world impact.
 
